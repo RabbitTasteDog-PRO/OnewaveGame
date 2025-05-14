@@ -1,0 +1,263 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22faa14d28779406d840ad43c60169af, type: 3}
+  m_Name: SkillDataContainer
+  m_EditorClassIdentifier: 
+  skillGroups:
+  - skillType: 0
+    skillLevelsInfo:
+    - index: 0
+      skillType: 0
+      damage: 10
+      distance: 1
+      coolTime: 5000
+      duration: 0
+    - index: 1
+      skillType: 0
+      damage: 20
+      distance: 2
+      coolTime: 4800
+      duration: 0
+    - index: 2
+      skillType: 0
+      damage: 30
+      distance: 3
+      coolTime: 4600
+      duration: 0
+    - index: 3
+      skillType: 0
+      damage: 40
+      distance: 4
+      coolTime: 4400
+      duration: 0
+    - index: 4
+      skillType: 0
+      damage: 50
+      distance: 5
+      coolTime: 4200
+      duration: 0
+    - index: 5
+      skillType: 0
+      damage: 60
+      distance: 6
+      coolTime: 4000
+      duration: 0
+    - index: 6
+      skillType: 0
+      damage: 70
+      distance: 7
+      coolTime: 3800
+      duration: 0
+    - index: 7
+      skillType: 0
+      damage: 80
+      distance: 8
+      coolTime: 3600
+      duration: 0
+    - index: 8
+      skillType: 0
+      damage: 90
+      distance: 9
+      coolTime: 3400
+      duration: 0
+    - index: 9
+      skillType: 0
+      damage: 100
+      distance: 10
+      coolTime: 3200
+      duration: 0
+  - skillType: 1
+    skillLevelsInfo:
+    - index: 10
+      skillType: 1
+      damage: 10
+      distance: 0
+      coolTime: 5000
+      duration: 1
+    - index: 11
+      skillType: 1
+      damage: 20
+      distance: 0
+      coolTime: 4800
+      duration: 2
+    - index: 12
+      skillType: 1
+      damage: 30
+      distance: 0
+      coolTime: 4600
+      duration: 3
+    - index: 13
+      skillType: 1
+      damage: 40
+      distance: 0
+      coolTime: 4400
+      duration: 4
+    - index: 14
+      skillType: 1
+      damage: 50
+      distance: 0
+      coolTime: 4200
+      duration: 5
+    - index: 15
+      skillType: 1
+      damage: 60
+      distance: 0
+      coolTime: 4000
+      duration: 6
+    - index: 16
+      skillType: 1
+      damage: 70
+      distance: 0
+      coolTime: 3800
+      duration: 7
+    - index: 17
+      skillType: 1
+      damage: 80
+      distance: 0
+      coolTime: 3600
+      duration: 8
+    - index: 18
+      skillType: 1
+      damage: 90
+      distance: 0
+      coolTime: 3400
+      duration: 9
+    - index: 19
+      skillType: 1
+      damage: 100
+      distance: 0
+      coolTime: 3200
+      duration: 10
+  - skillType: 2
+    skillLevelsInfo:
+    - index: 20
+      skillType: 2
+      damage: 10
+      distance: 1
+      coolTime: 5000
+      duration: 0
+    - index: 21
+      skillType: 2
+      damage: 20
+      distance: 1
+      coolTime: 4800
+      duration: 0
+    - index: 22
+      skillType: 2
+      damage: 30
+      distance: 1
+      coolTime: 4600
+      duration: 0
+    - index: 23
+      skillType: 2
+      damage: 40
+      distance: 1
+      coolTime: 4400
+      duration: 0
+    - index: 24
+      skillType: 2
+      damage: 50
+      distance: 1
+      coolTime: 4200
+      duration: 0
+    - index: 25
+      skillType: 2
+      damage: 60
+      distance: 1
+      coolTime: 4000
+      duration: 0
+    - index: 26
+      skillType: 2
+      damage: 70
+      distance: 1
+      coolTime: 3800
+      duration: 0
+    - index: 27
+      skillType: 2
+      damage: 80
+      distance: 1
+      coolTime: 3600
+      duration: 0
+    - index: 28
+      skillType: 2
+      damage: 90
+      distance: 1
+      coolTime: 3400
+      duration: 0
+    - index: 29
+      skillType: 2
+      damage: 100
+      distance: 1
+      coolTime: 3200
+      duration: 0
+  - skillType: 3
+    skillLevelsInfo:
+    - index: 30
+      skillType: 3
+      damage: 10
+      distance: 1
+      coolTime: 5000
+      duration: 1
+    - index: 31
+      skillType: 3
+      damage: 10
+      distance: 2
+      coolTime: 4800
+      duration: 2
+    - index: 32
+      skillType: 3
+      damage: 10
+      distance: 3
+      coolTime: 4600
+      duration: 3
+    - index: 33
+      skillType: 3
+      damage: 10
+      distance: 4
+      coolTime: 4400
+      duration: 4
+    - index: 34
+      skillType: 3
+      damage: 10
+      distance: 5
+      coolTime: 4200
+      duration: 5
+    - index: 35
+      skillType: 3
+      damage: 10
+      distance: 6
+      coolTime: 4000
+      duration: 6
+    - index: 36
+      skillType: 3
+      damage: 10
+      distance: 7
+      coolTime: 3800
+      duration: 7
+    - index: 37
+      skillType: 3
+      damage: 10
+      distance: 8
+      coolTime: 3600
+      duration: 8
+    - index: 38
+      skillType: 3
+      damage: 10
+      distance: 9
+      coolTime: 3400
+      duration: 9
+    - index: 39
+      skillType: 3
+      damage: 10
+      distance: 10
+      coolTime: 3200
+      duration: 10
